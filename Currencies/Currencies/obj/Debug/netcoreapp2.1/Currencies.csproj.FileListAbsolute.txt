@@ -1,0 +1,14 @@
+C:\Users\diama\source\repos\Currencies\Currencies\bin\Debug\netcoreapp2.1\Currencies.deps.json
+C:\Users\diama\source\repos\Currencies\Currencies\bin\Debug\netcoreapp2.1\Currencies.runtimeconfig.json
+C:\Users\diama\source\repos\Currencies\Currencies\bin\Debug\netcoreapp2.1\Currencies.runtimeconfig.dev.json
+C:\Users\diama\source\repos\Currencies\Currencies\bin\Debug\netcoreapp2.1\Currencies.dll
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.csproj.CoreCompileInputs.cache
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.RazorAssemblyInfo.cache
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.RazorAssemblyInfo.cs
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.AssemblyInfoInputs.cache
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.AssemblyInfo.cs
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.RazorTargetAssemblyInfo.cache
+C:\Users\diama\source\repos\Currencies\Currencies\bin\Debug\netcoreapp2.1\Currencies.pdb
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.dll
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.pdb
+C:\Users\diama\source\repos\Currencies\Currencies\obj\Debug\netcoreapp2.1\Currencies.csprojAssemblyReference.cache
