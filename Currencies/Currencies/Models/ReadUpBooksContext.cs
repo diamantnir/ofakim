@@ -22,7 +22,7 @@ namespace Currencies.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=199.244.49.20;Database=ReadUpBooks;User Id=admin;Password=LmC958Pgah");
+                optionsBuilder.UseSqlServer("Server=xxxxxxxxxx;Database=yyyyyyy;User Id=zzzzz;Password=wwwwww");
             }
         }
 
